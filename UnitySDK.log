@@ -1,0 +1,27 @@
+2019-08-30 PM 3:11:23
+ 
+Log
+block count : 0
+UnityEngine.Debug:Log(Object)
+PlayerMove:InitializeAgent() (at Assets/08 SCRIPTS/PlayerMove.cs:52)
+MLAgents.Agent:OnEnableHelper(Academy) (at Assets/ML-Agents/Scripts/Agent.cs:377)
+MLAgents.Agent:OnEnable() (at Assets/ML-Agents/Scripts/Agent.cs:340)
+
+2019-08-30 PM 3:19:16
+ 
+Log
+block count : 0
+UnityEngine.Debug:Log(Object)
+PlayerMove:InitializeAgent() (at Assets/08 SCRIPTS/PlayerMove.cs:54)
+MLAgents.Agent:OnEnableHelper(Academy) (at Assets/ML-Agents/Scripts/Agent.cs:377)
+MLAgents.Agent:OnEnable() (at Assets/ML-Agents/Scripts/Agent.cs:340)
+
+2019-08-30 PM 3:42:38
+ 
+Log
+block count : 0
+UnityEngine.Debug:Log(Object)
+PlayerMove:InitializeAgent() (at Assets/08 SCRIPTS/PlayerMove.cs:54)
+MLAgents.Agent:OnEnableHelper(Academy) (at Assets/ML-Agents/Scripts/Agent.cs:377)
+MLAgents.Agent:OnEnable() (at Assets/ML-Agents/Scripts/Agent.cs:340)
+

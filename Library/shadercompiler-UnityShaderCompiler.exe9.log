@@ -1,0 +1,24 @@
+Base path: C:/2019.1.8f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=12270 outsize=2037 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4482 outsize=1861 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=23621 outsize=5577 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=27408 outsize=1577 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=27408 outsize=1377 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=27408 outsize=1305 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=27408 outsize=1337 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20360 outsize=857 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20360 outsize=1317 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20360 outsize=1353 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20360 outsize=1241 ok=1
